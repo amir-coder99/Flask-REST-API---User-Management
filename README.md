@@ -16,7 +16,10 @@ users = {
     1: {"name": "Alice", "email": "alice@example.com"},
     2: {"name": "Bob", "email": "bob@example.com"}
 }
---------
+
+
+
+
 ## 📁 Project Structure
 '''bash
 Copy code
@@ -25,8 +28,12 @@ Copy code
 ├── requirements.txt   # Python packages list
 └── README.md          # Project guide
 
+
+
 ## 🔧 Requirements
 Python 3.x
+
+
 
 ## Flask (installed via pip)
 
