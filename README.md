@@ -18,16 +18,17 @@ users = {
 }
 
 ## 📁 Project Structure
-bash
+'''bash
 Copy code
 ├── app.py             # Main Flask API
 ├── test_api.bat       # Batch file to test API using curl
 ├── requirements.txt   # Python packages list
 └── README.md          # Project guide
-🔧 Requirements
+
+## 🔧 Requirements
 Python 3.x
 
-#### Flask (installed via pip)
+## Flask (installed via pip)
 
 📦 Installation
 Step 1: Clone or Download
