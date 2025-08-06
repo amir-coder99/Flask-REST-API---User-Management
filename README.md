@@ -17,7 +17,7 @@ users = {
     2: {"name": "Bob", "email": "bob@example.com"}
 }
 
-### 📁 Project Structure
+### **📁 Project Structure**
 bash
 Copy code
 ├── app.py             # Main Flask API
